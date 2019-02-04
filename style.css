@@ -1,0 +1,22 @@
+h1 {
+    color: purple;
+}
+a.contact {
+    text-decoration: silver;
+}
+table {
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid: slateblue;
+    text-align: center;
+    color: blueviolet;
+  }
+  table {
+    width: 100%;
+  }
+  
+  th {
+    height: 50px;
+  }
